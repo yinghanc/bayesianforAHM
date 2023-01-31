@@ -1,4 +1,4 @@
-# bayesian inference for CDMs with attribute hierarchy
+# Bayesian inference for CDMs with attribute hierarchy
 
 Source the cpp file first and then run analysis in R
 
